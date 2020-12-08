@@ -197,6 +197,7 @@ if __name__ == '__main__':
     FEP_list_types = [["Surveys and Tutorials", "survey"],
                 ["Classics","classic"],
                 ["Neurobiological Process Theories ", "process"],
+                ["Neuroscience applications", "applications"],
                 ["Relationship to Backpropagation", "backprop"],
                 ["PC-inspired machine learning","ml"],
                 ["Extensions and Developments","extensions"],
