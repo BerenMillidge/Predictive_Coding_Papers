@@ -93,6 +93,7 @@ There has also been much exciting work trying to merge predictive coding with ma
  
  *A great review delving deep into the evidence for predictive coding being implemented in the brain. Evidence is currently somewhat lacking, although the flexibility of the predictive coding framework allows it to encompass a lot of the findings here.* 
 - [**Fitting predictive coding to the neurophysiological data**](https://www.sciencedirect.com/science/article/pii/S0006899319303592?casa_token=Mq4I-lQm6OMAAAAA:qGWBzjDg799T4lW-YLpp6Mm6Hkh5WhNO1D4teQVE6fRuRCY_2Uv3q2d3xpgXtFCzdhzBy9mzSjg) , (2019) by *Spratling, MW* [[bib]](bibtex.bib#L555-L565) 
+- [**Predictive processing: a canonical cortical computation**](https://www.sciencedirect.com/science/article/pii/S0896627318308572) , (2018) by *Keller, Georg B and Mrsic-Flogel, Thomas D* [[bib]](bibtex.bib#L566-L577) 
 
 ## Neuroscience applications
 - [**The predictive coding account of psychosis**](https://www.sciencedirect.com/science/article/pii/S0006322318315324) , (2018) by *Sterzer, Philipp, Adams, Rick A, Fletcher, Paul, Frith, Chris, Lawrie, Stephen M, Muckli, Lars, Petrovic, Predrag, Uhlhaas, Peter, Voss, Martin and Corlett, Philip R* [[bib]](bibtex.bib#L302-L313) 
